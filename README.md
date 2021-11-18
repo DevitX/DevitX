@@ -1,1 +1,1 @@
-[![DevitZw's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevitZw)](https://github.com/DevitZw/github-readme-stats)
+[![DevitZw's GitHub stats](https://github-readme-stats-f-l23hm8lwo-devitzw.vercel.app/api?username=DevitZw)](https://github.com/DevitZw/github-readme-stats)
